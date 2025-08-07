@@ -27,6 +27,7 @@
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="R" width="40px" src="https://avatars.githubusercontent.com/u/33554149?s=280&v=4" />
+<img align="left" alt="R" width="40px" src="https://yt3.googleusercontent.com/ytc/AIdro_kAsCDO_i5X2xJFqShdn7BzOtXoMWabAkHfGkFSb8rYZA=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /><br><br>
 <br>
 
