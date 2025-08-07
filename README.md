@@ -7,7 +7,7 @@
     <img align="center" alt="Eva's YouTube" width="32px" src="https://github.com/user-attachments/assets/d86488e9-babe-485a-b5cd-3f4a0d1a25db" />
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://evakostadinova.alle.bg/">
-    <img align="center" alt="Eva's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
+    <img align="center" alt="Eva's Website" width="30px" src="https://cdn-icons-png.flaticon.com/512/4408/4408783.png" />
   </a>
 </p><br>
 
